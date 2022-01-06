@@ -1,4 +1,4 @@
-# Stanford's CS224 (Machine Learning with Graphs)
+# Stanford's CS224W: Machine Learning with Graphs
 
 
 ** Course material: 
